@@ -1,0 +1,1 @@
+Getraenkelager PWA: Dateien aus diesem ZIP entpacken und einzeln ins Stammverzeichnis eines oeffentlichen GitHub-Repositorys hochladen. GitHub Settings > Pages > Deploy from a branch > main / (root) > Save. Die Webseite ist oeffentlich erreichbar. Lagerdaten liegen nur lokal im Browser; regelmaessig Sicherung exportieren.
